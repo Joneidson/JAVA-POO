@@ -17,3 +17,5 @@ Desenvolvido com foco em conceitos fundamentais como:
 - ☕ **Java 24+**
 - 🧠 **IntelliJ IDEA**
 - 🗃️ **Git & GitHub**
+
+## 🧠 Projeto básico de calculo de área 
