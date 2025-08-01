@@ -1,4 +1,4 @@
-# 💻 JAVA-POO 🧠
+# 💻 JAVA-POO  🧠
 
 Projeto em Java para praticar **programação orientada a objetos (POO)**.  
 Desenvolvido com foco em conceitos fundamentais como:
@@ -18,4 +18,4 @@ Desenvolvido com foco em conceitos fundamentais como:
 - 🧠 **IntelliJ IDEA**
 - 🗃️ **Git & GitHub**
 
-## 🧠 Projeto básico de calculo de área 
+## 🧠 **Projeto básico de cálculo de área**
