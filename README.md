@@ -19,3 +19,4 @@ Desenvolvido com foco em conceitos fundamentais como:
 - 🗃️ **Git & GitHub**
 
 ## 🧠 **Projeto básico de cálculo de área**
+## 🧠 **Projeto Básico de Gerenciamento de Estoque**
