@@ -20,7 +20,7 @@ public class Triangle {
     public double b; //------==== atributos da classe Triangle
     public double c; //-----|
 
-    public double area(){
+    public double area() {
         double p = (a + b + c);
         return Math.sqrt(p * (p - a) * (p - b) * (p - c));
     }

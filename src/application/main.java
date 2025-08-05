@@ -25,8 +25,8 @@ public class main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Triangle x, y;
-        x = new Triangle();
+        Triangle x, y; // chamo a classe
+        x = new Triangle(); //nomeo um novo objeto pra classe
         y = new Triangle();
         String continuar = "S";
 
@@ -35,7 +35,7 @@ public class main {
 
 
             System.out.println("Digite o valor do lado A do triangulo 1: ");
-            x.a = sc.nextDouble();
+            x.a = sc.nextDouble(); // puxo o atributo da class pro meu objeto
             System.out.println("Digite o valor do lado B do triangulo 1: ");
             x.b = sc.nextDouble();
             System.out.println("Digite o valor do lado C do triangulo 1: ");
